@@ -77,7 +77,9 @@
 * 《Qt 5 开发实战》，[网盘链接](https://pan.baidu.com/s/13SocEohcoaWCtS6SUFWh6A)，提取码：scpg；
 * 《Qt5.9 ，C++ 开发指南》[网盘链接](https://pan.baidu.com/s/1T9W8NLXRa1Hf94lesrvuxQ)，提取码：lea7；
 
+### Java
 
+* 《Java 从小白到大牛》，网盘链接[https://pan.baidu.com/s/1GI_KuWOnZqBaq1pyhxG6wQ],提取码：3jif;
 
 
 
