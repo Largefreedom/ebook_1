@@ -6,7 +6,7 @@
 
 > 以下资料都已经打包在一个压缩包中，获取方式可以扫一下下方的二维码，关注一下公众号(**小张Python**)，后台回复关键词 **1024**，即可获取；此公号专注于 **Python + 算法**，
 可直接扫下方二维码关注即可
-![Snipaste_2020-02-08_16-08-20.jpg](https://images.zeroingpython.top/img/687474703a2f2f7777312e73696e61696d672e636e2f6c617267652f303038623852797a677931676c6b353768696b616b6a333164703068616469782e6a7067.jpg)
+![Snipaste_2021-01-01_09-44-31](https://images.zeroingpython.top/img/Snipaste_2021-01-01_09-44-31.png)
 
 
 > 个人微信：a460467324，有什么问题也可以加我微信私聊我，
@@ -20,6 +20,7 @@
   * 《跟老齐学 Python》 ，[网盘链接](https://pan.baidu.com/s/1I0BcNP1lvlMh2rMtCdeyzw)，提取码 5wfu；
   * 《Head First Python》(中文版)，[网盘链接](https://pan.baidu.com/s/1HZw6MlMjEdU0HgJuGLC_XA)，提取码：q3gc ；
   * 《Python 编程，从入门到实践》，[网盘链接](https://pan.baidu.com/s/1XY1rZiWaLB98u_60BUzhYw)，提取码：xt86；
+  * [《像科学家一样思考Python》](http://www.greenteapress.com/thinkpython2/thinkpython2.pdf)
 
 * **Python 进阶**
 
