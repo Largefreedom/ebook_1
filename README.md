@@ -29,6 +29,7 @@
   * 《Python 3 程序开发指南》(第二版)，[网盘链接](https://pan.baidu.com/s/11gMtmq5k_YeE8ssCWsJ7vw)，提取码：7rit；
   * 《Python Cookbook》 第三版(中文版)，[网盘链接](https://pan.baidu.com/s/1obvLLnHMNMawwT4aLf1irQ)，提取码：7376；
   * 《Python 高级编程》，[网盘链接](https://pan.baidu.com/s/1JHLnaDAwzGgcO0OXvY3ymA)，提取码：p82j；
+  * 《流畅的Python》,[网盘链接](https://pan.baidu.com/s/1ndJ3AjndHPHrqvwIJWR6_A), 提取码: t433;
 
 * **Django**
 
