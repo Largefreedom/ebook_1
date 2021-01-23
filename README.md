@@ -77,6 +77,7 @@
 * 《C Primer Plus 第六版 》，[网盘链接](https://pan.baidu.com/s/1J2tQ7Byjqa-Mdv-a-it6VQ)，提取码：4tkk；
 * 《Qt 5 开发实战》，[网盘链接](https://pan.baidu.com/s/13SocEohcoaWCtS6SUFWh6A)，提取码：scpg；
 * 《Qt5.9 ，C++ 开发指南》[网盘链接](https://pan.baidu.com/s/1T9W8NLXRa1Hf94lesrvuxQ)，提取码：lea7；
+* 《C++ Primer 中文版》[网盘链接](https://pan.baidu.com/s/1KRr3YOoP69ZorbRyXsta1w),提取码：gpix；
 
 ### Java
 
