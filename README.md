@@ -20,7 +20,8 @@
   * 《跟老齐学 Python》 ，[网盘链接](https://pan.baidu.com/s/1I0BcNP1lvlMh2rMtCdeyzw)，提取码 5wfu；
   * 《Head First Python》(中文版)，[网盘链接](https://pan.baidu.com/s/1HZw6MlMjEdU0HgJuGLC_XA)，提取码：q3gc ；
   * 《Python 编程，从入门到实践》，[网盘链接](https://pan.baidu.com/s/1XY1rZiWaLB98u_60BUzhYw)，提取码：xt86；
-  * [《像科学家一样思考Python》](http://www.greenteapress.com/thinkpython2/thinkpython2.pdf)
+  * [《像科学家一样思考Python》](http://www.greenteapress.com/thinkpython2/thinkpython2.pdf);
+  * 《Python 编程 从入门到实践》，[网盘链接](https://pan.baidu.com/s/1xGThapBxigbvItZ-4QXJeA)，提取码：uu7b；
 
 * **Python 进阶**
 
